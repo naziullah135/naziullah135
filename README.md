@@ -2,9 +2,12 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=naziullah135&show_icons=true&theme=midnight-purple">
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naziullah135&layout=compact&show_icons=true&theme=midnight-purple" >
   </div>
-
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=naziullah135&count_private=true&theme=midnight-purple)
+</div>
 ### Languages and Tools:
-<div>
+<div  align="center">
   
 <img align="left" alt="HTML5" width="26px" src="https://i.ibb.co/VSmHRkv/html.png" />
 
