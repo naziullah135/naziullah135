@@ -6,7 +6,7 @@
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=naziullah135&count_private=true&theme=midnight-purple)
 </div>
-### Languages and Tools:
+###Languages and Tools:
 <div  align="center">
   
 <img align="left" alt="HTML5" width="26px" src="https://i.ibb.co/VSmHRkv/html.png" />
