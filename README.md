@@ -1,11 +1,11 @@
 <div align="center">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=naziullah135&show_icons=true&theme=midnight-purple">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naziullah135&layout=compact&show_icons=true&theme=midnight-purple" >
-  </div>
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=naziullah135&count_private=true&theme=midnight-purple)
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naziullah135&layout=compact&show_icons=true&theme=midnight-purple" >
 </div>
+
+<!-- <div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=naziullah135&count_private=true&theme=midnight-purple)
+</div> -->
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -13,8 +13,8 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=naziullah135&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-
 ###Languages and Tools:
+
 <div  align="center">
   
 <img align="left" alt="HTML5" width="26px" src="https://i.ibb.co/VSmHRkv/html.png" />
